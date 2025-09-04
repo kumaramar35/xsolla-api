@@ -1,0 +1,24 @@
+{
+  "name": "xsolla-api",
+  "version": "1.0.0",
+  "description": "API for Xsolla stats and services",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kumaramar35/xsolla-api.git"
+  },
+  "author": "ankit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kumaramar35/xsolla-api/issues"
+  },
+  "homepage": "https://github.com/kumaramar35/xsolla-api#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
