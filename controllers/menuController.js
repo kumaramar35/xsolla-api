@@ -48,7 +48,7 @@ const data = {
       "Press kit",
       "Site map",
     ],
-    contactUs: ["Sales Team", "Customer Support", "Partnerships"],
+    contactUs : []
   },
 };
 // menuController.js
